@@ -19,12 +19,3 @@
     * **Firebase Authentication:** Για την πιστοποίηση των χρηστών.
     * **Firebase Realtime Database:** Για την αποθήκευση και το συγχρονισμό των δεδομένων σε πραγματικό χρόνο.
 
-## 📸 Screenshots
-Η εφαρμογή περιλαμβάνει:
-1. Λίστα συνομιλιών (Main Chat List).
-2. Οθόνη συνομιλίας (Individual Chat Screen).
-
-## 🚀 Οδηγίες Χρήσης
-1. Ανοίξτε το project στο Android Studio.
-2. Συνδέστε το project με το δικό σας Firebase Console.
-3. Κάντε Build και Run σε Android συσκευή ή Emulator.
