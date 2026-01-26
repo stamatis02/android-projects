@@ -1,4 +1,4 @@
-# android-projects
+
 # Android Projects Collection 📱
 
 Καλωσορίσατε στο repository μου με εφαρμογές Android. Εδώ θα βρείτε projects που αναπτύχθηκαν στο πλαίσιο της εκμάθησης ανάπτυξης εφαρμογών (Android Development), χρησιμοποιώντας σύγχρονες τεχνολογίες και εργαλεία.
