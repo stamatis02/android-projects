@@ -8,12 +8,12 @@
 
 Το repository περιλαμβάνει τις παρακάτω εφαρμογές:
 
-### 1. [Expense Tracker](./expense%20tracker/) 💰
+### 1. [Expense Tracker](./expense%20-tracker/) 💰
 Μια εφαρμογή για την καθημερινή καταγραφή και διαχείριση προσωπικών εξόδων.
 * **Βασική Τεχνολογία:** Shared Preferences για τοπική αποθήκευση.
 * **Δυνατότητες:** Στατιστικά εβδομάδας/μήνα και μέσοι όροι εξόδων.
 
-### 2. [UnipiFireChat](./Chat%20app/) 💬
+### 2. [UnipiFireChat](./Chat%20-app/) 💬
 Μια native εφαρμογή ανταλλαγής μηνυμάτων σε πραγματικό χρόνο.
 * **Backend:** Firebase (Authentication & Realtime Database).
 * **Δυνατότητες:** Σύνδεση χρηστών και ζωντανή συνομιλία.
