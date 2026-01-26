@@ -1,23 +1,84 @@
 # android-projects
-# Expense Tracker Android App 📱
+# Android Projects Collection 📱
 
-Μια απλή και λειτουργική εφαρμογή Android για την καθημερινή καταγραφή και παρακολούθηση των προσωπικών σας εξόδων.
+Καλωσορίσατε στο repository μου με εφαρμογές Android. Εδώ θα βρείτε projects που αναπτύχθηκαν στο πλαίσιο της εκμάθησης ανάπτυξης εφαρμογών (Android Development), χρησιμοποιώντας σύγχρονες τεχνολογίες και εργαλεία.
 
-## 📝 Περιγραφή
-Η εφαρμογή επιτρέπει στους χρήστες να καταγράφουν τα χρήματα που ξοδεύουν στο τέλος κάθε ημέρας. Παρέχει αναλυτικά στατιστικά στοιχεία σε εβδομαδιαία και μηνιαία βάση, βοηθώντας στην καλύτερη διαχείριση των οικονομικών.
+## 📁 Περιεχόμενα Repository
 
-## ✨ Χαρακτηριστικά
-* **Καθημερινή Καταγραφή:** Εύκολη εισαγωγή εξόδων ανά ημέρα.
-* **Στατιστική Ανάλυση:** * Συνολικά έξοδα (Εβδομαδιαία/Μηνιαία).
-    * Μέσος όρος εξόδων ανά ημέρα και ανά εβδομάδα.
-    * Εντοπισμός της ημέρας ή της εβδομάδας με τα περισσότερα και τα λιγότερα έξοδα.
-* **Τοπική Αποθήκευση:** Η υλοποίηση βασίζεται αποκλειστικά στη χρήση **Shared Preferences** για την αποθήκευση των δεδομένων.
+Το repository περιλαμβάνει τις παρακάτω εφαρμογές:
 
-## 🛠️ Τεχνικά Χαρακτηριστικά
-* **Platform:** Android
-* **Storage:** Shared Preferences
-* **Language:** Java
+### 1. [Expense Tracker](./expense%20tracker/) 💰
+Μια εφαρμογή για την καθημερινή καταγραφή και διαχείριση προσωπικών εξόδων.
+* **Βασική Τεχνολογία:** Shared Preferences για τοπική αποθήκευση.
+* **Δυνατότητες:** Στατιστικά εβδομάδας/μήνα και μέσοι όροι εξόδων.
+
+### 2. [UnipiFireChat](./Chat%20app/) 💬
+Μια native εφαρμογή ανταλλαγής μηνυμάτων σε πραγματικό χρόνο.
+* **Backend:** Firebase (Authentication & Realtime Database).
+* **Δυνατότητες:** Σύνδεση χρηστών και ζωντανή συνομιλία.
+
+---
+
+## 🛠️ Τεχνολογικό Stack
 * **IDE:** Android Studio
+* **Γλώσσες:** Java / Kotlin
+* **Database:** Firebase Realtime Database
+* **Local Storage:** Android Shared Preferences
 
-## 📂 Παραδοτέα
-Το τελικό project είναι διαθέσιμο σε μορφή **exported .zip** αρχείου, περιλαμβάνοντας όλο τον πηγαίο κώδικα και τα απαραίτητα αρχεία ρυθμίσεων.
+## 🚀 Πώς να τρέξετε τα Projects
+1. Κάντε clone το repository:
+   ```bash
+   git clone [https://github.com/stamatis02/android-projects.git](https://github.com/stamatis02/android-projects.git)# Android Projects Collection 📱
+
+Καλωσορίσατε στο repository μου με εφαρμογές Android. Εδώ θα βρείτε projects που αναπτύχθηκαν στο πλαίσιο της εκμάθησης ανάπτυξης εφαρμογών (Android Development), χρησιμοποιώντας σύγχρονες τεχνολογίες και εργαλεία.
+
+## 📁 Περιεχόμενα Repository
+
+Το repository περιλαμβάνει τις παρακάτω εφαρμογές:
+
+### 1. [Expense Tracker](./expense%20tracker/) 💰
+Μια εφαρμογή για την καθημερινή καταγραφή και διαχείριση προσωπικών εξόδων.
+* **Βασική Τεχνολογία:** Shared Preferences για τοπική αποθήκευση.
+* **Δυνατότητες:** Στατιστικά εβδομάδας/μήνα και μέσοι όροι εξόδων.
+
+### 2. [UnipiFireChat](./Chat%20app/) 💬
+Μια native εφαρμογή ανταλλαγής μηνυμάτων σε πραγματικό χρόνο.
+* **Backend:** Firebase (Authentication & Realtime Database).
+* **Δυνατότητες:** Σύνδεση χρηστών και ζωντανή συνομιλία.
+
+---
+
+## 🛠️ Τεχνολογικό Stack
+* **IDE:** Android Studio
+* **Γλώσσες:** Java / Kotlin
+* **Database:** Firebase Realtime Database
+* **Local Storage:** Android Shared Preferences
+
+## 🚀 Πώς να τρέξετε τα Projects
+1. Κάντε clone το repository:
+   ```bash
+   git clone [https://github.com/stamatis02/android-projects.git](https://github.com/stamatis02/android-projects.git)# Android Projects Collection 📱
+
+Καλωσορίσατε στο repository μου με εφαρμογές Android. Εδώ θα βρείτε projects που αναπτύχθηκαν στο πλαίσιο της εκμάθησης ανάπτυξης εφαρμογών (Android Development), χρησιμοποιώντας σύγχρονες τεχνολογίες και εργαλεία.
+
+## 📁 Περιεχόμενα Repository
+
+Το repository περιλαμβάνει τις παρακάτω εφαρμογές:
+
+### 1. [Expense Tracker](./expense%20tracker/) 💰
+Μια εφαρμογή για την καθημερινή καταγραφή και διαχείριση προσωπικών εξόδων.
+* **Βασική Τεχνολογία:** Shared Preferences για τοπική αποθήκευση.
+* **Δυνατότητες:** Στατιστικά εβδομάδας/μήνα και μέσοι όροι εξόδων.
+
+### 2. [UnipiFireChat](./Chat%20app/) 💬
+Μια native εφαρμογή ανταλλαγής μηνυμάτων σε πραγματικό χρόνο.
+* **Backend:** Firebase (Authentication & Realtime Database).
+* **Δυνατότητες:** Σύνδεση χρηστών και ζωντανή συνομιλία.
+
+---
+
+## 🛠️ Τεχνολογικό Stack
+* **IDE:** Android Studio
+* **Γλώσσες:** Java / Kotlin
+* **Database:** Firebase Realtime Database
+* **Local Storage:** Android Shared Preferences
