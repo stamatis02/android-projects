@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051811468962",
+    "project_id": "ergasia2dikiamoy",
+    "storage_bucket": "ergasia2dikiamoy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051811468962:android:f469e476018d619ecb29fb",
+        "android_client_info": {
+          "package_name": "com.example.ergasia2dikiamou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFMFgCNC2yXrPAna9bfr_njusWtdfQZz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
