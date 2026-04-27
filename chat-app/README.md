@@ -1,21 +1,19 @@
-
 # UnipiFireChat 💬
 
-Μια native εφαρμογή Android για ανταλλαγή μηνυμάτων κειμένου μεταξύ χρηστών σε πραγματικό χρόνο.
+A native Android application for real-time text messaging between users.
 
-## 📝 Περιγραφή Έργου
-Σκοπός της εργασίας είναι η δημιουργία μιας εφαρμογής που επιτρέπει την άμεση επικοινωνία χρηστών. Η εφαρμογή χρησιμοποιεί τις υπηρεσίες της **Google Firebase** για τη διαχείριση χρηστών και την ασφαλή αποθήκευση των μηνυμάτων.
+## 📝 Project Description
+The goal of this project is to create an application that enables instant communication between users. The app leverages **Google Firebase** services for user management and secure message storage.
 
-## ✨ Χαρακτηριστικά
-* **Real-time Messaging:** Ανταλλαγή μηνυμάτων σε πραγματικό χρόνο.
-* **User Authentication:** Σύστημα εγγραφής και σύνδεσης χρηστών.
-* **Main Chat List:** Προβολή όλων των ενεργών συνομιλιών.
-* **Individual Chat Screen:** Ξεχωριστό περιβάλλον για συνομιλία με συγκεκριμένο χρήστη.
+## ✨ Features
+* **Real-time Messaging:** Instant exchange of messages.
+* **User Authentication:** Secure registration and login system.
+* **Main Chat List:** View of all active conversations.
+* **Individual Chat Screen:** Dedicated environment for chatting with a specific user.
 
-## 🛠️ Εργαλεία Ανάπτυξης & Τεχνολογίες
+## 🛠️ Development Tools & Technologies
 * **IDE:** Android Studio
 * **Language:** Java SDK
 * **Backend/Cloud Services (Firebase):**
-    * **Firebase Authentication:** Για την πιστοποίηση των χρηστών.
-    * **Firebase Realtime Database:** Για την αποθήκευση και το συγχρονισμό των δεδομένων σε πραγματικό χρόνο.
-
+    * **Firebase Authentication:** For user identity verification.
+    * **Firebase Realtime Database:** For real-time data storage and synchronization.
