@@ -1,21 +1,27 @@
-# Expense Tracker Android App 📱
-
-Μια απλή και λειτουργική εφαρμογή Android για την καθημερινή καταγραφή και παρακολούθηση των προσωπικών σας εξόδων.
-
-## 📝 Περιγραφή
-Η εφαρμογή επιτρέπει στους χρήστες να καταγράφουν τα χρήματα που ξοδεύουν στο τέλος κάθε ημέρας. Παρέχει αναλυτικά στατιστικά στοιχεία σε εβδομαδιαία και μηνιαία βάση, βοηθώντας στην καλύτερη διαχείριση των οικονομικών.
-
-## ✨ Χαρακτηριστικά
-* **Καθημερινή Καταγραφή:** Εύκολη εισαγωγή εξόδων ανά ημέρα.
-* **Στατιστική Ανάλυση:** * Συνολικά έξοδα (Εβδομαδιαία/Μηνιαία).
-    * Μέσος όρος εξόδων ανά ημέρα και ανά εβδομάδα.
-    * Εντοπισμός της ημέρας ή της εβδομάδας με τα περισσότερα και τα λιγότερα έξοδα.
-* **Τοπική Αποθήκευση:** Η υλοποίηση βασίζεται αποκλειστικά στη χρήση **Shared Preferences** για την αποθήκευση των δεδομένων.
-
-## 🛠️ Τεχνικά Χαρακτηριστικά
-* **Platform:** Android
-* **Storage:** Shared Preferences
-* **Language:** Java
-* **IDE:** Android Studio
 
 
+Expense Tracker Android App 📱
+A simple and functional Android application for the daily recording and tracking of your personal expenses.
+
+📝 Description
+The app allows users to log their expenses at the end of each day. It provides detailed statistical data on a weekly and monthly basis, helping users manage their finances more effectively.
+
+✨ Features
+Daily Logging: Easy input of expenses per day.
+
+Statistical Analysis: * Total expenses (Weekly/Monthly).
+
+Average spending per day and per week.
+
+Identification of days or weeks with the highest and lowest spending.
+
+Local Storage: The implementation is based exclusively on Shared Preferences for data storage.
+
+🛠️ Technical Specifications
+Platform: Android
+
+Storage: Shared Preferences
+
+Language: Java
+
+IDE: Android Studio
