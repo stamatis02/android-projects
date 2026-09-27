@@ -1,27 +1,28 @@
+Android Projects Collection 📱
+Welcome to my Android applications repository. Here you will find projects developed as part of learning Android Development, using modern technologies and tools.
 
-# Android Projects Collection 📱
+📁 Repository Contents
+The repository includes the following applications:
 
+1. Expense Tracker 💰
+An application for the daily recording and management of personal expenses.
 
-Καλωσορίσατε στο repository μου με εφαρμογές Android. Εδώ θα βρείτε projects που αναπτύχθηκαν στο πλαίσιο της εκμάθησης ανάπτυξης εφαρμογών (Android Development), χρησιμοποιώντας σύγχρονες τεχνολογίες και εργαλεία.
+Core Technology: Shared Preferences for local storage.
 
-## 📁 Περιεχόμενα Repository
+Features: Weekly/monthly statistics and expense averages.
 
-Το repository περιλαμβάνει τις παρακάτω εφαρμογές:
+2. UnipiFireChat 💬
+A native real-time messaging application.
 
-### 1. [Expense Tracker](./expense-tracker/) 💰
-Μια εφαρμογή για την καθημερινή καταγραφή και διαχείριση προσωπικών εξόδων.
-* **Βασική Τεχνολογία:** Shared Preferences για τοπική αποθήκευση.
-* **Δυνατότητες:** Στατιστικά εβδομάδας/μήνα και μέσοι όροι εξόδων.
+Backend: Firebase (Authentication & Realtime Database).
 
-### 2. [UnipiFireChat](./Chat%20-app/) 💬
-Μια native εφαρμογή ανταλλαγής μηνυμάτων σε πραγματικό χρόνο.
-* **Backend:** Firebase (Authentication & Realtime Database).
-* **Δυνατότητες:** Σύνδεση χρηστών και ζωντανή συνομιλία.
+Features: User login and live chat.
 
----
+🛠️ Tech Stack
+IDE: Android Studio
 
-## 🛠️ Τεχνολογικό Stack
-* **IDE:** Android Studio
-* **Γλώσσες:** Java / Kotlin
-* **Database:** Firebase Realtime Database
-* **Local Storage:** Android Shared Preferences
+Languages: Java / Kotlin
+
+Database: Firebase Realtime Database
+
+Local Storage: Android Shared Preferences
